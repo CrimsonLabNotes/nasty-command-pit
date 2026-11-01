@@ -4,8 +4,6 @@ Local one-click launcher for a whitelist of commands. Cosmic purple / hot magent
 
 Register and rename apps in the UI. The list is saved on disk and still launches with one click.
 
-**Currently private.**
-
 ## Screenshots
 
 ![Nasty Command Pit](screenshots/nasty-command-pit-001.png)
